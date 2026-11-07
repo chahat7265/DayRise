@@ -1,0 +1,5 @@
+import streamlitl as st
+
+st.title("DayRise")
+st.write("Your Student
+Productivity Assistant")
